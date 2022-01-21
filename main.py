@@ -7,7 +7,7 @@ import os
 
 
 # Your credential to access bilibili. Some functions require cookies for authentication.
-uuid = 00000000  # uid of your account (int)
+uuid = 00000  # uid of your account (int)
 sessdata = ''  # SESSDATA from cookies (str)
 bili_jct = ''  # bili_jct from cookies (str)
 buvid3 = ''  # buvid3 from cookies (str)
